@@ -1,0 +1,79 @@
+
+.caja1{
+    border-bottom:2px solid rgb(112, 112, 248);
+    padding: 10px;
+
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+.caja1 h3{
+    font-size: 20px;
+}
+#imgiz{
+    float: left;
+    padding-top: 5px;
+}
+#imgde{
+    float: right;
+    padding-top: 5px;
+}
+
+.caja2{
+    position: relative;
+    display: inline-block;
+    margin:10px;
+    border-bottom:2px solid rgb(58, 58, 233);
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+}
+.texto_encima{
+    position: absolute;
+    top: -40px;
+    left: 450px;
+}
+
+#i1{
+    margin-left: 500px;
+}
+
+.caja3{
+    position: relative;
+    display: inline-block;
+    margin:10px;
+    border-bottom:2px solid rgb(23, 23, 231);
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+}
+
+.texto_encima2{
+    position: absolute;
+    top: -40px;
+    left: 450px;
+}
+
+#ii1{
+    margin-left: 538px;
+}
+
+.caja4{
+    position: relative;
+    display: inline-block;
+    margin:10px;
+    border-bottom:2px solid blue;
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+}
+
+.texto_encima3{
+    position: absolute;
+    top: -40px;
+    left: 450px;
+}
+
+#iii1{
+    margin-left: 615px;
+}
